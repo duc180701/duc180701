@@ -9,12 +9,12 @@
 
 Welcome! This GitHub profile serves as the central hub for everything I build and share.
 
-| 📚 Learning Book                                                             | 🎥 YouTube
+| 📚 Learning Book                                                             | 🎥 YouTube                                                                                 |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | A structured knowledge base covering Cybersecurity, Networking, AI, and more. | About world history. |
 | **➡️ [Open Learning Book](https://github.com/duc180701/learning-book)** | **➡️ [Visit YouTube](https://www.youtube.com/@kyucthegioi)**                                    |
 
-| 📘 Facebook Page                                                             | 💻 GitHub Projects                                                          |
+| 📘 Facebook Page                                                             | 💻 GitHub Projects                                                                         |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | Daily knowledge sharing.                                                      | Open-source projects, demos, and experiments.                                              |
 | **➡️ [Follow on Facebook](https://www.facebook.com/learn.smth.every.day/)**  | **➡️ [Browse Repositories](https://github.com/duc180701?tab=repositories)** |
