@@ -5,6 +5,22 @@
 
 ---
 
+# 🚀 Explore My Work
+
+Welcome! This GitHub profile serves as the central hub for everything I build and share.
+
+| 📚 Learning Book                                                             | 🎥 YouTube                                                                                
+| ----------------------------------------------------------------------------- | ------------------------- |
+| A structured knowledge base covering Cybersecurity, Networking, AI, and more. | About world history.      |
+| **➡️ [Open Learning Book](#)**                                               | **➡️ [Visit YouTube](https://www.youtube.com/@kyucthegioi)** |
+
+| 📘 Facebook Page                                                  | 💻 GitHub Projects                                                          |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| Daily knowledge sharing, technology insights, and learning notes. | Open-source projects, demos, and experiments.                               |
+| **➡️ [Follow on Facebook](#)**                                    | **➡️ [Browse Repositories](https://github.com/duc180701?tab=repositories)** |
+
+---
+
 ## 🚀 About Me
 I'm passionate about both Software Engineering and Cybersecurity.
 
