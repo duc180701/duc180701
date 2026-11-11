@@ -19,6 +19,11 @@ Welcome! This GitHub profile serves as the central hub for everything I build an
 | Daily knowledge sharing.                                                      | Open-source projects, demos, and experiments.                                              |
 | **➡️ [Follow on Facebook](https://www.facebook.com/learn.smth.every.day/)**  | **➡️ [Browse Repositories](https://github.com/duc180701?tab=repositories)** |
 
+| 💬 Discord Community                                                          |
+| ----------------------------------------------------------------------------- |
+| Join the discussion, share knowledge, and connect with everyone.              | 
+| **➡️ [Join Discord](https://discord.gg/mSankVGmq5)**  |
+
 ---
 
 ## 🚀 About Me
